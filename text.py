@@ -33,6 +33,7 @@ class Text:
     def write(self):
         """
         Write final text to file.
+        Returns success boolean.
         :return:
         """
         try:
